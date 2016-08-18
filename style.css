@@ -1,0 +1,23 @@
+#background{
+      color: white;
+      font-family: Times;
+      text-align: center;
+   }
+    
+#button{
+	background-color:rgb(25,16,200);
+	height: 130px;
+	width:150px;
+}
+body
+	{background: url(http://www.teefury.com/media/catalog/product/cache/1/image/960x485/602f0fa2c1f0d1ba5e241f914e856ff9/a/r/art-mco-we-are-fsociety.png?color=black);
+	 background-size: cover;
+     background-position: middle;
+     font-size: 30px;
+     color: white;
+
+	}
+	
+.box{
+	padding: 0 5px 0 5px;
+}
